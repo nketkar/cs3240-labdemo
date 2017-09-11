@@ -1,1 +1,4 @@
-print("This is hello.py")
+def greeting(msg):
+	print(msg)
+
+greeting("hello")
